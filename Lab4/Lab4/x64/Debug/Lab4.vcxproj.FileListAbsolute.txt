@@ -1,0 +1,5 @@
+D:\Visual Projects\nafig_jabu\Lab4\Lab4\x64\Debug\Lab4.vcxproj.AssemblyReference.cache
+D:\Visual Projects\nafig_jabu\Lab4\Lab4\x64\Debug\Lab4.vcxproj.SuggestedBindingRedirects.cache
+D:\Visual Projects\nafig_jabu\Lab4\Lab4\x64\Debug\Lab4.Form1.resources
+D:\Visual Projects\nafig_jabu\Lab4\Lab4\x64\Debug\Lab4.vcxproj.GenerateResource.cache
+D:\Visual Projects\nafig_jabu\Lab4\Lab4\x64\Debug\Lab4.Form2.resources
