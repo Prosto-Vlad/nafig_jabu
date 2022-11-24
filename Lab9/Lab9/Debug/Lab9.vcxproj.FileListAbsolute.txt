@@ -1,0 +1,4 @@
+D:\Visual Projects\nafig_jabu\Lab9\Lab9\Debug\Lab9.vcxproj.AssemblyReference.cache
+D:\Visual Projects\nafig_jabu\Lab9\Lab9\Debug\Lab9.Form1.resources
+D:\Visual Projects\nafig_jabu\Lab9\Lab9\Debug\Lab9.vcxproj.GenerateResource.cache
+D:\Visual Projects\nafig_jabu\Lab9\Lab9\Debug\Lab9.MainForm.resources

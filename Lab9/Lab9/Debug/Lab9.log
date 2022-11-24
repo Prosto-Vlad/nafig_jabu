@@ -1,0 +1,6 @@
+﻿  Form1.cpp
+  MainForm.cpp
+D:\Visual Projects\nafig_jabu\Lab9\Lab9\MainForm.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  Form1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab9.vcxproj -> D:\Visual Projects\nafig_jabu\Lab9\Debug\Lab9.exe
