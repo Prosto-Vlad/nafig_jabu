@@ -238,11 +238,12 @@ namespace Lab11 {
 				double form;
 				double sinus;
 				double root;
+				double inside, pow1, pow2;
 				x = xn;
 				while (x <= xk)
 				{
-					root = pow(1.0 / 3, 2 * pow(2, x) + pow(4, x) + 1);
-					sinus = pow(2, sin(x + 2));
+					root = pow(2 * pow(x, 2) + pow(x, 4) + 1, 1.0 / 3);
+					sinus = sin(pow(x + 2,2));
 					form = (sinus)/(root);
 					plot1->Points->AddXY(x, form);
 					x = x + xh;

@@ -1,4 +1,7 @@
 ﻿  MainForm.cpp
 D:\Visual Projects\nafig_jabu\Lab11\Lab11\MainForm.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Visual Projects\nafig_jabu\Lab11\Lab11\MainForm.h(241,12): warning C4101: inside: неиспользованная локальная переменная
+D:\Visual Projects\nafig_jabu\Lab11\Lab11\MainForm.h(241,26): warning C4101: pow2: неиспользованная локальная переменная
+D:\Visual Projects\nafig_jabu\Lab11\Lab11\MainForm.h(241,20): warning C4101: pow1: неиспользованная локальная переменная
   MainForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
   Lab11.vcxproj -> D:\Visual Projects\nafig_jabu\Lab11\Debug\Lab11.exe
