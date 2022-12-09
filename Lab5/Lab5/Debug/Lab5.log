@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+D:\Visual Projects\nafig_jabu\Lab5\Lab5\MyForm.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Visual Projects\nafig_jabu\Lab5\Lab5\MyForm.h(293,50): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Visual Projects\nafig_jabu\Lab5\Lab5\MyForm.h(277,7): warning C4101: n: неиспользованная локальная переменная
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab5.vcxproj -> D:\Visual Projects\nafig_jabu\Lab5\Debug\Lab5.exe
